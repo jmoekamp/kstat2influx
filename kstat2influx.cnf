@@ -1,0 +1,6 @@
+[main]
+ip = ipaddress of the Influx DB server
+db = name of the influx db 
+username = username to authenticate at the influx db server
+password = password to authenticate at the influx db server
+debug = False 
